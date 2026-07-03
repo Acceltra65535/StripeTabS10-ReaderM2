@@ -45,6 +45,14 @@
             android:textIsSelectable="true" />
 
         <TextView
+            android:id="@+id/textUsbStatus"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="6dp"
+            android:text="@string/status_usb_disconnected"
+            android:textIsSelectable="true" />
+
+        <TextView
             android:id="@+id/textTerminalHint"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"

@@ -26,6 +26,7 @@
     <string name="status_not_initialized">Not initialized</string>
     <string name="status_payment_idle">Payment idle</string>
     <string name="status_reader_not_selected">No reader selected</string>
+    <string name="status_usb_disconnected">USB device: ✗ Disconnected</string>
     <string name="status_connection_template">Connection: %1$s</string>
     <string name="status_payment_template">Payment: %1$s</string>
     <string name="status_reader_template">Reader: %1$s</string>

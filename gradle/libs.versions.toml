@@ -12,7 +12,7 @@ lifecycleLivedataKtx = "2.6.1"
 lifecycleViewmodelKtx = "2.6.1"
 navigationFragmentKtx = "2.6.0"
 navigationUiKtx = "2.6.0"
-kotlin = "2.0.21"
+kotlin = "1.9.24"
 stripeTerminal = "5.6.0"
 
 [libraries]
