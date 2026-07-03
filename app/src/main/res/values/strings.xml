@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Seburo Terminal</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Seburo Pte Ltd</string>
+    <string name="nav_header_subtitle">Stripe Reader M2 terminal</string>
+    <string name="nav_header_desc">Seburo terminal logo</string>
+
+    <string name="menu_terminal">Terminal</string>
+    <string name="menu_settings">Settings</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="terminal_title">Seburo Pte Ltd checkout</string>
+    <string name="terminal_hint">USB mode only: connect the Tab S10+ to the Stripe Reader M2 with a data-capable USB cable, then discover and connect the reader from this screen.</string>
+    <string name="amount_minor_units_hint">Amount in minor units</string>
+    <string name="currency_hint">Currency code</string>
+    <string name="default_amount_minor_units">1000</string>
+    <string name="default_currency">SGD</string>
+    <string name="action_discover_usb">Discover USB reader</string>
+    <string name="action_connect_reader">Connect selected reader</string>
+    <string name="action_load_payment_intent">Load payment intent</string>
+    <string name="action_collect_payment">Collect &amp; charge</string>
+    <string name="action_cancel_operation">Cancel current operation</string>
+    <string name="log_placeholder">Logs will appear here.</string>
+
+    <string name="status_not_initialized">Not initialized</string>
+    <string name="status_payment_idle">Payment idle</string>
+    <string name="status_reader_not_selected">No reader selected</string>
+    <string name="status_connection_template">Connection: %1$s</string>
+    <string name="status_payment_template">Payment: %1$s</string>
+    <string name="status_reader_template">Reader: %1$s</string>
+
+    <string name="settings_title">Backend settings</string>
+    <string name="settings_summary">Provide the backend URL that creates connection tokens and payment intents for Seburo Pte Ltd.</string>
+    <string name="settings_saved_summary">Saved for %1$s | %2$s | %3$d minor units</string>
+    <string name="merchant_name_hint">Merchant name</string>
+    <string name="location_id_hint">Stripe Location ID</string>
+    <string name="backend_base_url_hint">Backend base URL</string>
+    <string name="connection_token_path_hint">Connection token path</string>
+    <string name="payment_intent_path_hint">Payment intent path</string>
+    <string name="default_currency_hint">Default currency</string>
+    <string name="default_amount_hint">Default amount in minor units</string>
+    <string name="action_save_settings">Save settings</string>
+    <string name="default_merchant_name">Seburo Pte Ltd</string>
+
+    <string name="fab_content_description">Represents a view to invoke an action</string>
+    <string name="image_view_item_transform_content_description">Represents an image view in the item</string>
+
+    <string name="menu_transform">Transform</string>
+    <string name="menu_reflow">Reflow</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="lorem_ipsum_title">Lorem Ipsum"</string>
+    <string name="lorem_ipsum">Lorem Ipsum is simply placeholder text of the printing and typesetting industry. Lorem
+        Ipsum has been the industry\'"'"'s standard placeholder text ever since the 1500s, when an unknown printer took a
+        galley of type and scrambled it to make a type specimen book"
+    </string>
+</resources>
