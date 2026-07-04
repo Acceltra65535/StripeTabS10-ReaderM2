@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Stripe Seburo Terminal"
+rootProject.name = "StripeUsbApp"
 include(":app")
